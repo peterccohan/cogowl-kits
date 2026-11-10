@@ -147,3 +147,7 @@ Designs and documentation are licensed under [CC BY-SA 4.0](LICENSE). You can pr
 ## Author
 
 Designed and built by Peter Cohan.
+
+---
+
+*Kit design by Peter Cohan. Documentation drafted with help from Claude (Anthropic) and edited by me.*
