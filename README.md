@@ -150,4 +150,4 @@ Designed and built by Peter Cohan.
 
 ---
 
-*Kit design by Peter Cohan. Documentation drafted with help from Claude (Anthropic) and edited by me.*
+*Kit, process, reasoning, design, and goal designed by Peter Cohan. Documentation drafted with help from Claude (Anthropic) and edited by me.*
